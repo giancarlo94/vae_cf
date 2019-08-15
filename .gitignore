@@ -1,0 +1,5 @@
+*.pdf
+/data/ml-20m
+*.png
+*.swp
+.ipynb_checkpoints/
